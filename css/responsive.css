@@ -13,7 +13,11 @@
 /* For tablets at 900px: */
 
 @media screen and (max-width: 900px) {
-.wrapper : 85%;}
+body{font-size: 85%;}
+#logo h1{
+    height:35px;
+    width:35px;
+}
 
 #social{
     position: absolute;
@@ -21,4 +25,12 @@
     right: 4px;
     width: auto;
 }
+}
+
+body { font-size: 100%; }
+h1 { font-size: 2.5em; }
+p { font-size: 1em; }
+ 
+@media only screen and (max-width: 400px) {
+ body { font-size: 130%; } 
 }
