@@ -13,7 +13,7 @@
 /* For tablets at 900px: */
 
 @media screen and (max-width: 900px) {
-.wrapper {width: 90%;}
+.wrapper : 85%;}
 
 #social{
     position: absolute;
