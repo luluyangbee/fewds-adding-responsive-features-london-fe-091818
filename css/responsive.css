@@ -45,4 +45,10 @@ body{font-size: 85%;}
   .col-3 p{
     column-count:1;
   }
+  .col-1 and .col-2 and .col-3 {
+    width:100%
+    margin:0;
+    float:none;
+  }
+  }
 }
