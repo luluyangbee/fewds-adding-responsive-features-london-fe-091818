@@ -31,3 +31,11 @@ body{font-size: 85%;}
 }
 }
 
+
+/* For tablets at 750px: */
+
+@media screen and (max-width: 750px) {
+  #navbar {
+    font-size:0.9em;
+  }
+}
