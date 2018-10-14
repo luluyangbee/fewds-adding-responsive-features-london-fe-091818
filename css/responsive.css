@@ -50,4 +50,7 @@ body{font-size: 85%;}
     margin:0;
     float:none;
   }
+  .border-right {
+    border: 0;
+  }
   }
