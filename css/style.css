@@ -186,6 +186,10 @@ img, video, audio, iframe, table, form {
   column-count: 2;
 }
 
+#navbar nav{
+  
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
